@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="name.vizzent.riskofwargames_wh.WelcomeMenu" >
+    <item android:id="@+id/action_leadership"
+        android:title="@string/action_leadership"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_charge"
+        android:title="@string/action_charge"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_magic"
+        android:title="@string/action_magic"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_close"
+        android:title="@string/action_close"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

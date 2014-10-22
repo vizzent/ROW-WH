@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pantalla de bienvenida -->
+    <string name="app_name">Risk of WarGames - WH</string>
+    <string name="menu_button">Ir al Menú</string>
+    <string name="welcome_title">BIENVENIDO A\nRISK OF WARGAMES</string>
+    <string name="welcome_text">Con esta aplicación podrás realizas calculos rápidos de probabilidades para tomar las mejores decisiones en el campo de batalla.\nPulsa el botón para acceder al menú</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Caja de opciones -->
+    <string name="action_settings">Settings</string>
+    <string name="action_leadership">Liderazgo</string>
+    <string name="action_charge">Cargas</string>
+    <string name="action_magic">Magia</string>
+    <string name="action_close">Cerrar</string>
+
+</resources>
